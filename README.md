@@ -76,3 +76,5 @@ I love working with communication through Digital Marketing and Advertising, and
   - Campaign planning to promote products;
   - Coordination of marketing of physical events at convention centers throughout Rio de Janeiro;
   - Responsible for executing Marketing actions on social networks, aiming to engage the public in posts and conversion.
+
+<!-- Hope you enjoy this PR :-) -->
