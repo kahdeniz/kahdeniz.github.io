@@ -18,7 +18,7 @@ I love working with communication through Digital Marketing and Advertising, and
 
 - Vila Velha University - Advertising (2020 - current)
 - Vila Velha University - Marketing (2019 - 2020)
-- IBMR University Center - Publicity and Propaganda (2018 - 2019)
+- IBMR University Center - Advertising (2018 - 2019)
 - Infnet Institute - Bachelor of Digital Marketing (2015 - 2018)
 
 ## Professional Courses and Certificates
