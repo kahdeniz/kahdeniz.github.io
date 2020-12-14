@@ -51,7 +51,7 @@ I love working with communication through Digital Marketing and Advertising, and
 
 ## Professional Experience
 
-- [Vòlia Cosmetics](www.voliacosmeticos.com.br) - Digital Marketing Analyst
+- [Vòlia Cosmetics](https://www.voliacosmeticos.com.br) - Digital Marketing Analyst
   - Cosmetics industry that brings to the market innovative, accessible products, with quality technical support and that make everyone's life more practical, specializing in the nail and eyebrow henna segments.
   - Responsible for creating content on the company's social media, with a greater focus on Instagram;
   - Creation and management of email marketing (MailChimp);
@@ -62,12 +62,12 @@ I love working with communication through Digital Marketing and Advertising, and
   - Partial management of the company's website (WordPress);
   - Management of target audience data.
 
-- [Fight Club Blog (Blog Clube da Luta)](www.clubedaluta.blog.br) - Content Reviewer (freelancer)
+- [Fight Club Blog (Blog Clube da Luta)](https://www.clubedaluta.blog.br) - Content Reviewer (freelancer)
   - Blog that addresses themes of geek culture, focusing on the dissemination of content about films, series, comics, anime and animations.
   - Content review of blog texts, applying content marketing and SEO techniques;
   - Tone settings and public.
 
-- [THM Toys](www.thmtoys.com.br) - Digital Marketing Manager (2014 - 2019)
+- [THM Toys](https://www.thmtoys.com.br) - Digital Marketing Manager (2014 - 2019)
   - Online store focused on selling collectibles (currently inactive)
   - Responsible for developing marketing strategies and brand visual identity in the collectibles market;
   - Responsible for brand positioning from the communication channels (Facebook, Instagram, Google) for each audience consuming our products;
