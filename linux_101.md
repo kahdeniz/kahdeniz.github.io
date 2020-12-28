@@ -9,6 +9,9 @@ Servidor web(1) / proxy(2)
 
 - stop = desligar
 - terminate = matar a máquina 
+# User Data
+Foi adicionado como teste 
+- echo "Teste EC2" >> /tmp/teste_ec2.txt
 
 ## Comandos Básicos Terminal (bash)
 
@@ -31,7 +34,9 @@ Servidor web(1) / proxy(2)
 - apt update = atualiza o cache dos repositorios
 - apt upgrade = atualizada o sistema
 - apt install <nome da aplicação> = instala uma aplicação
-
+- > = sobrescreve o conteúdo de um arquivo
+- >> = faz um append (adiciona) de conteúdo a um arquivo 
+  
 ## Siglas Para Serviço de Rede
 
 - NTP = Network Time Protocol (protocolo de hora de rede)
